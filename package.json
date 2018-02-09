@@ -6,7 +6,7 @@
   "repository": "git@bitbucket.org:patientpointcreative/excel-converter.git",
   "author": "Matt Roe <matt.roe@patientpoint.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "excel-as-json": "^2.0.1"
   }
 }
