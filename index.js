@@ -6,8 +6,6 @@ const fs = require('fs');
 const convertExcel = require('excel-as-json').processFile;
 
 const srcFolder = './source/';
-const destFolder = './dest/';
-
 const options = {
   sheet: '1',
   omitEmptyFields: false,
