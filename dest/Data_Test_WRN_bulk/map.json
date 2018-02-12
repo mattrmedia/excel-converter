@@ -5,13 +5,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "Substance Abuse",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      "Substance Abuse"
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -20,13 +29,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "Substance Abuse",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      "Substance Abuse"
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -35,13 +53,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -50,13 +77,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -65,13 +101,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "Musculoskeletal Conditions",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      "Musculoskeletal Conditions"
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -80,13 +125,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "Diabetes, Type 2",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      "Diabetes, Type 2"
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -95,13 +149,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -110,13 +173,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "Geriatrics",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      "Geriatrics"
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -125,13 +197,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "Osteoarthritis",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      "Osteoarthritis"
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -140,13 +221,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "Diabetes, Type 2",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      "Diabetes, Type 2"
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -155,13 +245,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -170,13 +269,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -185,13 +293,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -200,13 +317,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -215,13 +341,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -230,13 +365,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -245,13 +389,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -260,13 +413,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "Opioid Addiction",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      "Opioid Addiction"
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -275,13 +437,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "Lifestyle",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      "Lifestyle"
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -290,13 +461,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "Geriatrics",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      "Geriatrics"
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -305,13 +485,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -320,13 +509,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -335,13 +533,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -350,13 +557,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -365,13 +581,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "Pregnancy",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      "Pregnancy"
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -380,13 +605,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -395,13 +629,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "PatientPoint",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "English"
   },
   {
@@ -410,13 +653,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "Telemundo",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "Spanish"
   },
   {
@@ -425,13 +677,22 @@
     "Program": "Waiting Room",
     "Type": "Video",
     "fileType": "Video",
-    "specialties": "",
-    "groupings": "",
-    "categories": "",
-    "topics": "",
+    "specialties": [
+      ""
+    ],
+    "groupings": [
+      ""
+    ],
+    "categories": [
+      ""
+    ],
+    "topics": [
+      ""
+    ],
     "contentSource": "Telemundo",
-    "Sound": "Sound",
-    "Captions  ": "Captions",
+    "otherDetail": [
+      "Captions"
+    ],
     "Language": "Spanish"
   }
 ]
