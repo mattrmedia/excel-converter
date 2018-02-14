@@ -15,7 +15,7 @@ const flatten = (data) => {
   const flatArr = data.reduce((obj, value) => {
     for (const i in value) {
       if (value[i] !== '') {
-        obj.push(value[i])
+        obj.push(value[i]);
       }
     }
     return obj;
@@ -24,7 +24,7 @@ const flatten = (data) => {
 };
 
 const cleanData = (data) => {
-  const clean = []
+  const clean = [];
   data.forEach((obj) => {
     Object.keys(obj).forEach((k) => {
       if (obj[k] === '' || undefined) {
@@ -44,7 +44,7 @@ const cb = (err, data) => {
   } else {
     console.log('JSON Cleaned!');
   }
-}
+};
 
 const getFile = (fpath) => {
   fs.readFile(fpath, (err, data) => {
@@ -53,13 +53,13 @@ const getFile = (fpath) => {
     } else {
       const newData = JSON.parse(data);
       const clean = JSON.stringify(cleanData(newData));
-      fs.writeFile(fpath, clean, cb)
+      fs.writeFile(fpath, clean, cb);
     }
   });
 };
 
 const cleanFile = (fpath) => {
-  getFile(fpath)
+  getFile(fpath);
 };
 
 const callback = (err, data, dst) => {
