@@ -13,11 +13,16 @@ const options = {
 
 const flatten = (data) => {
   const flatArr = data.reduce((obj, value) => {
-    for (const i in value) {
+    Object.keys(value).forEach((i) => {
       if (value[i] !== '') {
         obj.push(value[i]);
       }
-    }
+    });
+    // for (const i in value) {
+    //   if (value[i] !== '') {
+    //     obj.push(value[i]);
+    //   }
+    // }
     return obj;
   }, []);
   return flatArr;
