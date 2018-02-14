@@ -46,7 +46,7 @@ const cb = (err, data) => {
   }
 };
 
-const getFile = (fpath) => {
+const cleanFile = (fpath) => {
   fs.readFile(fpath, (err, data) => {
     if (err) {
       console.log(err);
@@ -56,10 +56,6 @@ const getFile = (fpath) => {
       fs.writeFile(fpath, clean, cb);
     }
   });
-};
-
-const cleanFile = (fpath) => {
-  getFile(fpath);
 };
 
 const callback = (err, data, dst) => {
