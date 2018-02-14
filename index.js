@@ -18,11 +18,6 @@ const flatten = (data) => {
         obj.push(value[i]);
       }
     });
-    // for (const i in value) {
-    //   if (value[i] !== '') {
-    //     obj.push(value[i]);
-    //   }
-    // }
     return obj;
   }, []);
   return flatArr;
