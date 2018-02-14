@@ -23,8 +23,8 @@ const flatten = (data) => {
   return flatArr;
 };
 
-const cleanData = (data) => {
-  const clean = [];
+const reformat = (data) => {
+  const formatted = [];
   data.forEach((obj) => {
     Object.keys(obj).forEach((k) => {
       if (obj[k] === '' || undefined) {
@@ -33,27 +33,27 @@ const cleanData = (data) => {
         obj[k] = flatten(obj[k]);
       }
     });
-    clean.push(obj);
+    formatted.push(obj);
   });
-  return clean;
+  return formatted;
 };
 
 const cb = (err, data) => {
   if (err) {
     console.log(err);
   } else {
-    console.log('JSON Cleaned!');
+    console.log('JSON Reformatted!');
   }
 };
 
-const cleanFile = (fpath) => {
+const reformatFile = (fpath) => {
   fs.readFile(fpath, (err, data) => {
     if (err) {
       console.log(err);
     } else {
-      const newData = JSON.parse(data);
-      const clean = JSON.stringify(cleanData(newData));
-      fs.writeFile(fpath, clean, cb);
+      const unformattedData = JSON.parse(data);
+      const newFormat = JSON.stringify(reformat(unformattedData));
+      fs.writeFile(fpath, newFormat, cb);
     }
   });
 };
@@ -62,8 +62,8 @@ const callback = (err, data, dst) => {
   if (err) {
     console.log('JSON Conversion Error: ' + err);
   } else {
-    console.log('JSON Conversion Successful!', 'Cleaning JSON.');
-    cleanFile(dst);
+    console.log('JSON Conversion Successful!', 'Formatting JSON.');
+    reformatFile(dst);
   }
 };
 
