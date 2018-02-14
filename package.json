@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "convert excel files to json",
   "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
   "repository": "git@bitbucket.org:patientpointcreative/excel-converter.git",
   "author": "Matt Roe <matt.roe@patientpoint.com>",
   "license": "MIT",
-  "devDependencies": {
-    "excel-as-json": "^2.0.1"
+  "dependencies": {
+    "excel-as-json": "git+https://github.com/mattrmedia/excel-as-json.git"
   }
 }
